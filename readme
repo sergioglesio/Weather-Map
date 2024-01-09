@@ -1,0 +1,21 @@
+# Wwather Map com Python
+
+Este script em Python utiliza a API Meteomatics para obter a previsão do tempo de uma localidade específica. As credenciais são armazenadas de forma segura, e o script oferece flexibilidade para ajustar parâmetros como intervalo de tempo e formato de saída. Ideal para consultas meteorológicas personalizadas em projetos Python.
+
+## Pré-requisitos
+
+Instale as seguintes bibliotecas antes de executar o script:
+
+```bash
+pip install requests 
+```
+## Como usar
+1 - Clone o repositório para o seu ambiente local:
+```git clone https://github.com/sergioglesio/Weather-Map.git
+cd Weather-Map
+```
+
+2 - Execute o script no terminal:
+```
+python Weather-Map.py
+```
